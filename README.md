@@ -271,7 +271,7 @@ print("\nRelatório de Classificação:\n", classification_report(y_test, y_pred
 
 ---
 
-### Prova Prática 5: Classificação da Oferta de Educação em Tempo Integral
+### Prova Prática 5: Classificação da Oferta de Educação em Tempo Integral (escolhi essa) - Maria Capelani
 * **Objetivo Pedagógico:** Prever se a escola possui turmas de educação em tempo integral com base na localização geográfica e dependência administrativa.
 * **Fontes de Dados:** `Tabela_Escola_2025` e `Tabela_Turma_2025`.
 * **Roteiro Didático de Execução:**
