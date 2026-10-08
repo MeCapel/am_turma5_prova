@@ -271,7 +271,7 @@ print("\nRelatório de Classificação:\n", classification_report(y_test, y_pred
 
 ---
 
-### Prova Prática 5: Classificação da Oferta de Educação em Tempo Integral (escolhi essa) - Maria Capelani
+### Prova Prática 5: Classificação da Oferta de Educação em Tempo Integral
 * **Objetivo Pedagógico:** Prever se a escola possui turmas de educação em tempo integral com base na localização geográfica e dependência administrativa.
 * **Fontes de Dados:** `Tabela_Escola_2025` e `Tabela_Turma_2025`.
 * **Roteiro Didático de Execução:**
@@ -364,7 +364,7 @@ print(f"Acurácia Obtida: {accuracy_score(y_test, gnb_p6.predict(X_test_scaled))
 
 Neste módulo, o foco orienta-se aos dados das Instituições de Ensino Superior (IES) e cursos de graduação do Brasil, analisando sustentabilidade acadêmica, retenção, evasão e modalidades de ensino.
 
-### Prova Prática 7: Classificação da Taxa de Retenção e Evasão de Cursos
+### Prova Prática 7: Classificação da Taxa de Retenção e Evasão de Cursos (escolhi essa) - Maria Capelani
 * **Objetivo Pedagógico:** Identificar cursos de graduação com alta taxa de retenção/evasão acadêmica baseando-se no fluxo entre vagas, ingressantes, matrículas e concluintes.
 * **Fontes de Dados:** `microdados_cadastro_cursos_2024.csv` (Módulo Curso do CENSUP 2024).
 * **Roteiro Didático de Execução:**
